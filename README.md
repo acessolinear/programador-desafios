@@ -5,8 +5,8 @@
 
 ## Índice de desafios
 
-- [00 - Dúvidas frequentes sobre os desafios](https://github.com/thiagokrathos/faq-desafios)
-- [01 - Teste Desenvolvedor Visual Basic 6 / C# - Desktop](https://github.com/thiagokrathos/desafio-vb6.git)
+- [00 - Dúvidas frequentes sobre os desafios](https://github.com/acessolinear/faq-desafios)
+- [01 - Teste Desenvolvedor Visual Basic 6 / C# - Desktop](https://github.com/acessolinear/desafio-vb6.git)
 
 ## :memo: Licença
 
